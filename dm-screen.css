@@ -435,6 +435,11 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 	max-width: 410px;
 }
 
+.gs-infobox-item5{
+	min-width: 140px;
+	max-width: 140px;
+}
+
 .gs-main-able {
 	/*! min-width: 250px; */
 	/*! max-width: 410px; */
@@ -542,10 +547,6 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 }
 .gs-spellattack-label, .gs-spellsavedc-label, .gs-spellmod-label{
 	font-size: 10px;
-}
-
-.gs-main-spells{
-	width:140px;
 }
 
 .gs-class .gs-number {
