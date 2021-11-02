@@ -205,7 +205,7 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 	border-bottom: 2px solid #c53131;
 	background-color: #404040;
 	color: #fff;
-	max-width: 550px;
+	max-width: 560px;
 }
 
 .gs-infobox-item.gs-col-container{
@@ -542,6 +542,10 @@ a.ddb-campaigns-detail-body-listing-campaign-link, a#content-management-link, .d
 }
 .gs-spellattack-label, .gs-spellsavedc-label, .gs-spellmod-label{
 	font-size: 10px;
+}
+
+.gs-main-spells{
+	width:140px;
 }
 
 .gs-class .gs-number {
